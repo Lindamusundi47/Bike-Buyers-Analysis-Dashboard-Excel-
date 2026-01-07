@@ -72,5 +72,9 @@ Regions with high short-distance commuting patterns
 
 Targeting this segment could significantly increase conversion rates while minimizing marketing costs.
 
+## Data is in the document
+
+
+
 
 
