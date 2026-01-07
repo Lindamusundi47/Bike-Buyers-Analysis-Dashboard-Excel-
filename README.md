@@ -48,6 +48,8 @@ Economic comparison between the two groups
 
 ### Dashboard Insights
 
+<a href="https://github.com/Lindamusundi47/Bike-Buyers-Analysis-Dashboard-Excel-/blob/main/Bike%20Sale%20Dashboard.png"> Dashboard</a>
+
 Middle-aged customers show the highest likelihood of purchasing bikes compared to younger and older age groups.
 
 Customers with moderate incomes are more likely to purchase bikes than very low- or very high-income earners.
